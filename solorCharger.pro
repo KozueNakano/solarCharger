@@ -1,4 +1,4 @@
-update=2017/03/08 13:11:08
+update=2017/03/16 21:37:08
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../../KiCAD/KiCADKozueLib.lib
+LibDir=../MyLib/KiCADKozueLib.lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=KiCADKozueLib
+LibName31=C:/Users/Kozue/Documents/KiCAD/MyLib/KiCADKozueLib.lib/KiCADKozueLib
